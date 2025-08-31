@@ -3,7 +3,7 @@ module github.com/kubeflow/model-registry
 go 1.24.4
 
 require (
-	github.com/go-chi/chi/v5 v5.2.2
+	github.com/go-chi/chi/v5 v5.2.3
 	github.com/go-chi/cors v1.2.1
 	github.com/go-logr/logr v1.4.3
 	github.com/go-sql-driver/mysql v1.9.2
