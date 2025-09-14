@@ -23,7 +23,7 @@ require (
 	github.com/testcontainers/testcontainers-go/modules/postgres v0.37.0
 	go.uber.org/zap v1.27.0
 	google.golang.org/grpc v1.73.0
-	google.golang.org/protobuf v1.36.6
+	google.golang.org/protobuf v1.36.9
 	gorm.io/driver/mysql v1.6.0
 	gorm.io/driver/postgres v1.6.0
 	gorm.io/gorm v1.30.0
